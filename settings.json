@@ -1,12 +1,12 @@
 {
   "bot-account": {
     "username": "bot",
-    "password": "your_password",
+    "password": "",
     "type": "microsoft"
   },
 
   "server": {
-    "ip": "localhost",
+    "ip": "BananaBox.playerservers.com",
     "port": 25565,
     "version": "1.19.3"
   },
